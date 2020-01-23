@@ -9,7 +9,6 @@ edition = "2018"
 [dependencies]
 zip = "0.5.4"
 indicatif = "0.13.0"
-time = "0.2.4"
 reqwest = "0.10.1"
 tokio = { version = "0.2.0", default-features = true, features = ["macros"] }
 futures = "0.3.1"
